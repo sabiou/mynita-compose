@@ -22,7 +22,7 @@ To build and run the MyNita Compose app locally, follow these steps:
 
 ## Screenshots
 
-<p align="center">
+<p>
   <img src="images/home.png" alt="Screenshot 1" width="150" />
   <img src="images/send.png" alt="Screenshot 4" width="150" />
 </p>
